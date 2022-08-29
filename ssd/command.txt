@@ -1,0 +1,3 @@
+python detectDNN.py -p Caffe/SSD_MobileNet_prototxt -m Caffe/SSD_MobileNet.caffemodel
+
+python detectDNN.py -p SSD_MobileNet_prototxt.txt -m SSD_MobileNet.caffemodel

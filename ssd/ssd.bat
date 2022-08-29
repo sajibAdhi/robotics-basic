@@ -1,0 +1,1 @@
+python detectDNN.py -p SSD_MobileNet_prototxt.txt -m SSD_MobileNet.caffemodel
