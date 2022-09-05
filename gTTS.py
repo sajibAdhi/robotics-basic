@@ -13,4 +13,4 @@ def speak(text):
     os.remove(filename)
 
 
-speak("Hey, There How are you?")
+speak("ওহে বিশ্ব")
